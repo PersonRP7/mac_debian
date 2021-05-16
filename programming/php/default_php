@@ -1,0 +1,3 @@
+sudo apt install wget php-cli php-zip unzip
+which php
+

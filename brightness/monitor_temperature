@@ -1,0 +1,3 @@
+#redshift modifies monitor temperature
+sudo apt-get install redshift redshift-gtk
+redshift -O 1800 

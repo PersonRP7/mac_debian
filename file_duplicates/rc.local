@@ -1,0 +1,5 @@
+#!/bin/bash -e
+
+
+bash  /home/mac/Desktop/exp/brightness/scripts
+exit 0

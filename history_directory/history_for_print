@@ -1,0 +1,402 @@
+    1  pwd
+    2  ping www.google.com
+    3  sudo apt-get install redshift redshift-gtk
+    4  sudo su
+    5  su
+    6  redshift -O 1800
+    7  usermod -aG sudo mac
+    8  echo $PATH
+    9  which usermod
+   10  which useradd
+   11  su
+   12  su -l
+   13  reboot
+   14  sudo echo "Hello World"
+   15  pwd
+   16  ls
+   17  cd Desktop
+   18  mkdir exp
+   19  cd exp
+   20  sudo redshift -O 1800
+   21  redshift
+   22  ls
+   23  touch add_user_to_sudo
+   24  vi add_user_to_sudo
+   25  ls
+   26  which usermod
+   27  sudo which usermod
+   28  ls
+   29  mkdir user_basic
+   30  mv add_user_to_sudo user_basic
+   31  ls
+   32  mkdir accessibility
+   33  cd accessibility
+   34  cd ..
+   35  mv accessibility brightness
+   36  ls
+   37  sudo apt-get install redshift redshift-gtk
+   38  redshift -O 1800
+   39  sudo apt-get install net-tools
+   40  ifconfig
+   41  Ifconfig
+   42  ip address
+   43  hostname -I
+   44  pwd
+   45  cd Desktop
+   46  ls
+   47  cd exp
+   48  ls
+   49  cd brightness
+   50  ls
+   51  vi monitor_temperature
+   52  ls
+   53  redshift -O 18000
+   54  redshift -O 1800
+   55  sudo apt-get install git
+   56  xrandr | grep 
+   57  xrandr | grep "connected" | cut -f1 -d " "
+   58  xrandr --output VGA1 --brightness 0.7
+   59  xrandr --output LVDS --brightness 0.7
+   60  xrandr --output LVDS --brightness 0.3
+   61  redshift -O 1800
+   62  xrandr --output 
+   63  xrandr --output LVDS --brightness 0.4
+   64  xrandr --output LVDS --brightness 0.35
+   65  redshift -O 1800
+   66  pwd
+   67  cd Desktop
+   68  ls
+   69  cd exp
+   70  uname -a
+   71  lsb_release -a
+   72  sudo apt-get install lm-sensors
+   73  sudo sensors-detect
+   74  /etc/init.d/kmod start
+   75  sensors
+   76  sudo apt-get install geany-common
+   77  cd Desktop/exp
+   78  ls
+   79  cd brightness
+   80  ls
+   81  vi set_brightness
+   82  ls
+   83  cd ..
+   84  ls
+   85  ls -la user_basic
+   86  mkdir version_control
+   87  cd version_control
+   88  vi install_git
+   89  cd ..
+   90  ls
+   91  mkdir about_system
+   92  vi about_system/distro_release
+   93  ls about_system
+   94  cat /etc/modules
+   95  ls
+   96  mkdir monitoring
+   97  vi monitoring/install_lm_sensors
+   98  ls monitoring
+   99  vi monitoring/lm_sensors
+  100  vi monitoring/install_lm_sensors
+  101  geany
+  102  %geany
+  103  % geany
+  104  geany + foo.bar
+  105  geany file.py
+  106  echo %PATH%
+  107  echo $PATH
+  108  gedit
+  109  sudo apt-get install gedit
+  110  gedit
+  111  % geany
+  112  sudo apt-get remove geany
+  113  sudo apt-get install geany
+  114  ls
+  115  cd ..
+  116  ls
+  117  cd ..
+  118  ls
+  119  cd projects
+  120  ls
+  121  cd django1
+  122  touch file1.py
+  123  cd ~/.config
+  124  ls
+  125  cd geany
+  126  ls
+  127  cd colorschemes
+  128  ls
+  129  sensors
+  130  touch black.conf
+  131  vi black.conf
+  132  gedit *
+  133  ls
+  134  cd ..
+  135  ls
+  136  gedit 
+  137  gedit *
+  138  cd /
+  139  ls
+  140  cd home
+  141  ls
+  142  cd mac
+  143  ls
+  144  cd Desktop
+  145  ls
+  146  cd exp
+  147  ls
+  148  cd user_basic
+  149  ls
+  150  cd ..
+  151  ls
+  152  mkdir appearance 
+  153  vi lxde_window_theming
+  154  cd ..
+  155  ls
+  156  cd exp
+  157  ls
+  158  mv lxde_window_theming appearance
+  159  ls
+  160  mkdir dev
+  161  touch dev/ide/geany
+  162  mkdir /dev/ide && vi dev/ide/geany
+  163  mkdir dev/ide && vi dev/ide/geany
+  164  ls
+  165  cd dev
+  166  ls
+  167  cd ide
+  168  redshift -O 1700
+  169  redshift -O 1600
+  170  redshift -O 1500
+  171  redshift -O 1650
+  172  redshift -O 1700
+  173  redshift -O 2000
+  174  redshift -O 1700
+  175  sensors
+  176  ls
+  177  cd ~/.config/geany/snippets.conf
+  178  ~/.config/geany
+  179  cd ~/.config/geany
+  180  ls
+  181  cat geany.conf
+  182  cd /home/mac
+  183  ls
+  184  cd .config
+  185  ls
+  186  cd geany
+  187  ls
+  188  cat snippets.conf
+  189  cd plugins
+  190  ls
+  191  cd ..
+  192  ls
+  193  cat /home/mac/.config/geany/snippets.conf
+  194  locate geany.conf
+  195  sudo apt-get install locate
+  196  locate geany.conf
+  197  locate snippets.conf
+  198  ls
+  199  cat geany.conf
+  200  gedit geany.conf
+  201  locate exp
+  202  find exp
+  203  locate /exp
+  204  find /exp
+  205  cd Desktop
+  206  cd /home
+  207  cd mac
+  208  cd Desktop
+  209  ls
+  210  cd exp
+  211  ls
+  212  cd brightness
+  213  ls
+  214  cat set_brightness
+  215  xrandr --output LVDS --brightness 0.6
+  216  redshift -O 1700
+  217  cd ~/.config/geany
+  218  ls -la
+  219  cd filedefs
+  220  ls
+  221  ls -la
+  222  cat filetypes.README
+  223  clear
+  224  vi filetypes.html
+  225  which python
+  226  python
+  227  cd Desktop
+  228  cd /home/mac/Desktop
+  229  ls
+  230  cd exp
+  231  ls
+  232  cd dev
+  233  ls
+  234  cd ide
+  235  ls
+  236  cat geany
+  237  vi geany
+  238  sudo apt install python3.8
+  239  sudo apt install build-essential zlib1g-dev libncurses5-dev libgdbm-dev libnss3-dev libssl-dev libsqlite3-dev libreadline-dev libffi-dev curl libbz2-dev liblzma-dev
+  240  curl -O https://www.python.org/ftp/python/3.8.2/Python-3.8.2.tar.xz
+  241  ls
+  242  tar -xf Python-3.8.2.tar.xz
+  243  ls
+  244  cd Python-3.8.2
+  245  lsls
+  246  ls
+  247  ./configure --enable-optimizations --enable-loadable-sqlite-extensions
+  248  lscpu
+  249  make -j 1
+  250  sudo make altinstall
+  251  ls
+  252  cd ..
+  253  ls
+  254  cd ..
+  255  pytho3.8 --version
+  256  python3.8 --version
+  257  py
+  258  py3
+  259  python3
+  260  python3.8
+  261  ls
+  262  python3.8 -m venv env
+  263  ls
+  264  cd env
+  265  ls
+  266  cd bin
+  267  ls
+  268  source activate
+  269  cd ..
+  270  ls
+  271  mkdir django1
+  272  cd django1
+  273  touch requirements.txt
+  274  vi requirements.txt
+  275  ls
+  276  pip install -r requirements.txt
+  277  ls
+  278  django-admin startproject main .
+  279  ls
+  280  python manage.py runserver
+  281  python manage.py startapp one
+  282  ls
+  283  touch one/urls.py
+  284  deactivate
+  285  ls
+  286  cd ..
+  287  ls
+  288  rm django1
+  289  rmdir django1
+  290  sudo rmdir django1
+  291  sudo rmdir -r django1
+  292  rm -r django1
+  293  ls
+  294  sudo apt install trash-cli
+  295  trash-empty
+  296  ls
+  297  cd dev
+  298  ls
+  299  cd ide
+  300  ls
+  301  rm Python-3.8.2.tar.xz
+  302  ls
+  303  rm -r Python3.8.2
+  304  ls
+  305  rm -r Python-3.8.2
+  306  .
+  307  trash-empty
+  308  python3.8
+  309  ls
+  310  cd Desktop
+  311  ls
+  312  cd exp
+  313  ls
+  314  cd dev
+  315  ls
+  316  cd ide
+  317  ls
+  318  cd ..
+  319  ls
+  320  mkdir cli_trash
+  321  vi cli_trash/cli_trash_package
+  322  cd ..
+  323  sensors
+  324  ls
+  325  sudo redshift -O 1700
+  326  ;s
+  327  ls
+  328  cd Desktop
+  329  ls
+  330  cd exp
+  331  ls
+  332  cd brightness
+  333  ls
+  334  cat set_brightness
+  335  ls
+  336  cd Desktop/exp/brightness
+  337  ls
+  338  mkdir scripts
+  339  vi brightness
+  340  ls
+  341  cd scripts
+  342  ls
+  343  mv brightness scripts
+  344  ls scrips
+  345  ls scripts
+  346  ls
+  347  cd ..
+  348  ls
+  349  mv brightness scripts
+  350  ls
+  351  cd scripts
+  352  ls
+  353  sudo chmod + x 755 brightness
+  354  ;s
+  355  ls
+  356  cat brightness
+  357  sudo chmod +x 755 brightness
+  358  sudo chmod 755 brightness
+  359  ls
+  360  ./brightness
+  361  ls
+  362  vi redshift
+  363  ls
+  364  cat redshif
+  365  cat redshift
+  366  sudo chmod 755 redshift
+  367  ./redshift hello
+  368  vi redshift
+  369  ls
+  370  ./redshift 1700
+  371  ls
+  372  cd ..
+  373  ;s
+  374  cd ..
+  375  ls
+  376  find Documents
+  377  ls
+  378  cd ..
+  379  ls
+  380  cd Documents
+  381  ls
+  382  mkdir php
+  383  cd php
+  384  ls
+  385  sudo apt install wget php-cli php-zip unzip
+  386  mkdir composer_installation
+  387  php -a
+  388  which php
+  389  ls -l /usr/bin/php
+  390  pwd
+  391  cd ../mac
+  392  cd ../
+  393  ls
+  394  pwd
+  395  cd ..
+  396  ls
+  397  cd Desktop
+  398  ls
+  399  cd exp
+  400  ls
+  401  mkdir history
+  402  history > history_for_print.txt

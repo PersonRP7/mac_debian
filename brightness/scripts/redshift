@@ -1,0 +1,6 @@
+#!/bin/bash
+redshift -O $1
+
+
+
+

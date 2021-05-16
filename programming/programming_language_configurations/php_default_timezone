@@ -1,0 +1,4 @@
+Sylius requires setting the default timezone in php.ini.
+The preset value can be seen like this:
+php -a;
+echo date_default_timezone_get();

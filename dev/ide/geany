@@ -1,0 +1,5 @@
+sudo apt-get install geany
+#Download dark theme: www.geany.org/download/themes/
+#~/.config/geany/colorschemes/
+#tools -> plugin manager -> _/ File Browser (Adds a browser tab to the sidebar.)
+#Copy ~/.config/geany to a different device

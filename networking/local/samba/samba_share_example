@@ -1,0 +1,7 @@
+[Exp Share]
+	comment = The exp directory houses various forms of documentation 
+	path = /home/mac/Desktop/exp
+	browseable = yes
+	read only = no
+	guest ok = yes
+
